@@ -1,2 +1,3 @@
 # javatour_ex1
-Educational projects for Java
+
+Exercise 1 project to accompany (Quick Tour of Java Booklet)[https://bit.ly/javatourbook].
