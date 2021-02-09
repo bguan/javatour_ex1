@@ -2,8 +2,15 @@
 
 Exercise 1 project to accompany [Quick Tour of Java Booklet](https://bit.ly/javatourbook).
 
-Use your newly gained java knowledge to implement logic to check if a given integer is a prime number!
 
-Use eclipse to import this project and add your code in the isPrime(int num) method in src/javatour/PrimeChecker.java.
+Use eclipse to import this as git project.
 
-Then use eclipse to run the class as java application to see the output.
+Use your newly gained java knowledge to implement logic to:
+
+## A. Check if a given integer is a prime number!
+   * Add your code in `src/javatour/PrimeChecker.java`.
+   
+## B. Utility functions to work on array of numbers.
+   * Add your code in `src/javatour/NumArrayUtil.java`.
+
+Use eclipse to run the class as java application to see the output.
