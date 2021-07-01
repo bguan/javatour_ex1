@@ -1,6 +1,6 @@
 # Java Quicktour Exercise 1
 
-Exercise 1 project to accompany [Quick Tour of Java Booklet](https://bit.ly/javatourbook).
+Prime Number Exercise project to accompany [Quick Tour of Java Booklet](https://bit.ly/javatourbook).
 
 
 Use eclipse to import this as git project.
